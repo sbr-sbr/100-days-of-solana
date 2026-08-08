@@ -1,7 +1,7 @@
 /*
 
 # Allow git to track these files
-!.gitignore
+.gitignore
 !README.md
 
 # Allow directory so files inside can be unignored
